@@ -26,7 +26,7 @@ El laboratorio está diseñado aislando las interfaces de red dentro del hipervi
 ## Evidencias de Configuración
 
 ### Dashboard General de pfSense
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Consola de la VM (VMware) e Interfaces
 ![Consola VM](console.png)
