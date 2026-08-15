@@ -27,15 +27,23 @@ El laboratorio está diseñado aislando las interfaces de red dentro del hipervi
 
 ### Dashboard General de pfSense
 ![Dashboard](Dashboard.png)
+![Dashboard](Dashboard2.png)
 
 ### Consola de la VM (VMware) e Interfaces
-![Consola VM](console.png)
+![Consola VM](Console.png)
+
+### Paquetes Instalados
+![Paquetes Instalados](Installed-Packages.png)
 
 ### Reglas de Firewall (Interfaz LAN)
-![Reglas de Firewall](firewall-rules.png)
+![Reglas de Firewall](Firewall-rules.png)
 
 ### Bloqueo de Contenido en Acción (pfBlockerNG / DNSBL)
-![Bloqueo DNSBL](dnsbl-blocking.png)
+![Bloqueo DNSBL](DNSBL-blocking.png)
+![Bloqueo DNSBL](DNSBL-blocking2.png)
+
+### Salida/Conexión a Internet OK
+![Salida a Internet](internet-available.png)
 
 ## Pruebas y Validación
 - Validación de conectividad y asignación de parámetros IP en la red LAN.
